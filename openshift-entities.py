@@ -25,7 +25,7 @@ def remove_empty_duplicate_entities(entities):
 
 def load_data():
     data = []
-    with jsonlines.open('openshift_docs_compact.jsonl') as reader:
+    with jsonlines.open('openshift_docs_compact_sample100.jsonl') as reader:
         for item in reader:
             data.append(item)
     return data

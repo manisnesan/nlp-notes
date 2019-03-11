@@ -1,0 +1,1002 @@
+Loading spacy module ...
+Loading the data
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-aggregate-logging
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Aggregating Container Logs
+intent/topic : install_config_aggregate_logging
+entities: ['Fluentd', 'Troubleshooting', 'ElasticSearch', 'External Elasticsearch Instance', 'Performing Administrative Elasticsearch Operations', 'Manual Elasticsearch', 'EFK', 'Sending Logs', 'Elasticsearch']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-build-defaults-overrides
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Global Build Defaults and Overrides
+intent/topic : install_config_build_defaults_overrides
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-cluster-metrics
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Enabling Cluster Metrics
+intent/topic : install_config_cluster_metrics
+entities: ['Capacity Planning for Cluster Metrics', 'OpenShift Container Platform Projects', 'Metric Components', 'Metrics Data Storage', 'Metrics Diagnostics']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-authentication
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring authentication and user agent
+intent/topic : install_config_configuring_authentication
+entities: ['LDAP', 'Google', 'Keystone', 'GitHub', 'GitLab']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-aws
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring for Amazon Web Services (AWS)
+intent/topic : install_config_configuring_aws
+entities: ['Red Hat OpenShift Container Storage', 'Ansible', 'Amazon Web Services', 'Configuring OpenShift Container Platform', 'AWS', 'Configuring AWS Variables']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-ephemeral-storage
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring ephemeral storage
+intent/topic : install_config_configuring_ephemeral_storage
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-kuryr-sdn
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Kuryr SDN
+intent/topic : install_config_configuring_kuryr_sdn
+entities: ['OpenShift Container Platform', 'Kuryr SDN']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-local
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Local Volumes
+intent/topic : install_config_configuring_local
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-nuage-sdn
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Nuage SDN
+intent/topic : install_config_configuring_nuage_sdn
+entities: ['OpenShift Container Platform', 'Nuage SDN', 'Operations Workflow']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-http-proxies
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Working with HTTP Proxies
+intent/topic : install_config_http_proxies
+entities: ['Setting Proxy Environment Variables', 'Git Repository Access', 'Builds for Proxies', 'Proxies', 'Proxying']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-master-node-configuration
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Master and Node Configuration
+intent/topic : install_config_master_node_configuration
+entities: ['Grant Configuration', 'Docker Configuration', 'Ansible', 'OAuth Authentication Configuration', 'Docker 1.9+', 'Scheduler Configuration', 'Serving Information Configuration', 'Controller Configuration']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-oab-config
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : OpenShift Ansible Broker Configuration
+intent/topic : install_config_oab_config
+entities: ['Setting Proxy Environment Variables', 'Dockerhub Registry', 'Storing Registry Credentials', 'Ansible Galaxy Registry', 'Local OpenShift Container Registry', 'Red Hat Connect Partner Registry', 'Mock Registry', 'Red Hat Container Catalog Registry', 'OpenShift Configuration', 'OpenShift Ansible Broker Configuration', 'Bearer Auth']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-routing-from-edge-lb
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Routing from Edge Load Balancers
+intent/topic : install_config_routing_from_edge_lb
+entities: ['SDN', 'Load Balancer']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-web-console-customization
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Customizing the Web Console
+intent/topic : install_config_web_console_customization
+entities: ['Customizing Documentation Links', 'Configuring Web Console Customizations', 'OAuth', 'Configuring Quota Notification Messages', 'Customizing the Logo', 'Project Left Navigation', 'CLI', 'External Logging Solutions', 'Download', 'Navigation Dropdown Menus']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/installing-operator-framework
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Installing the Operator Framework (Technology Preview)
+intent/topic : installing_operator_framework
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/prometheus-cluster-monitoring
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Prometheus Cluster Monitoring
+intent/topic : prometheus_cluster_monitoring
+entities: ['OpenShift Container Platform', 'PagerDuty', 'Alertmanager', 'Grafana']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/setting-up-a-router
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Setting up a Router
+intent/topic : setting_up_a_router
+entities: ['Router', 'ConfigMap', 'Partition Paths', 'Node Selector', 'Container Network Stack', 'ARP Cache Tuning', 'Protocol', 'Router Shards', 'Forcing Route Host Names', 'Router Plug-in', 'Router Overview', 'Customizing the Router Service Ports', 'HAProxy', 'Router Service Account', 'SNI', 'Default HAProxy Router', 'Routers']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/setting-up-the-registry
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Setting up the Registry
+intent/topic : setting_up_the_registry
+entities: ['Registry Directly', 'DaemonSet', 'Accessing Registry Metrics', 'Integrated or Stand-alone Registries', 'Viewing Logs', 'Internal Registry Overview', 'Whitelisting Docker', 'Extended Registry Configuration', 'Registry Console', 'S3 Storage', 'Internal Server', 'Scaled Registry']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-adding-hosts-to-cluster
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Adding Hosts to an Existing Cluster
+intent/topic : install_config_adding_hosts_to_cluster
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/configuring-persistent-storage
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Persistent Storage
+intent/topic : configuring_persistent_storage
+entities: ['Selector-Label Volume Binding', 'SELinux Options', 'FlexVolume', 'Setup', 'Troubleshooting', 'StorageClass', 'Configuring Nodes to Enable Controller-', 'Attachment and Detachment', 'NFS', 'VMware vSphere', 'Azure File', 'Attachment', 'CSI', 'NFS Volume Security', 'Azure Disk', 'Configuring Azure File', 'Ceph Volume Security', 'Reclaiming Resources', 'Lifecycle', 'FlexVolume Plug-ins']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/deploying-red-hat-cloudforms
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Deploying Red Hat CloudForms
+intent/topic : deploying_red_hat_cloudforms
+entities: ['Configuring Role Variables', 'Customizing Template Parameters', 'OpenShift Container Platform Installation', 'Single Container Provider', 'OpenShift Container Platform', 'Multiple Container']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-aggregate-logging-sizing
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Aggregate Logging Sizing Guidelines
+intent/topic : install_config_aggregate_logging_sizing
+entities: ['EFK']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-certificate-customization
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Custom Certificates
+intent/topic : install_config_certificate_customization
+entities: ['CLI', 'Web Console', 'Image Registry', 'Retrofit Custom Certificates']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-azure
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring for Azure
+intent/topic : install_config_configuring_azure
+entities: ['Azure', 'Microsoft Azure', 'Red Hat OpenShift Container Storage', 'Ansible', 'Configuring OpenShift Container Platform', 'OpenShift Container Platform', 'Microsoft']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-gce
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring for Google Compute Engine
+intent/topic : install_config_configuring_gce
+entities: ['Red Hat OpenShift Container Storage', 'Google Cloud Platform', 'Google Compute Engine', 'Ansible', 'Configuring OpenShift Container Platform', 'GCE', 'OpenShift Container Platform']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-native-container-routing
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Native Container Routing
+intent/topic : install_config_configuring_native_container_routing
+entities: ['Router for Container Networking']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-openstack
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring for OpenStack
+intent/topic : install_config_configuring_openstack
+entities: ['OpenShift Container Platform', 'OpenShift Container Platform Prerequisites', 'OpenStack Prerequisites Playbook', 'Configuring Zone Labels', 'OpenShift Container Platform Instances', 'OpenShift Ansible Playbooks', 'OpenShift Environment']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-pipeline-execution
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring Pipeline Execution
+intent/topic : install_config_configuring_pipeline_execution
+entities: ['OpenShift Jenkins Sync Plugin', 'OpenShift Jenkins Client Plugin']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-red-hat-registry
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Accessing and Configuring the Red Hat Registry
+intent/topic : install_config_configuring_red_hat_registry
+entities: ['Red Hat Registry', 'Authentication Enabled Red Hat Registry', 'Managing Registry Credentials for Installation']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-rhv
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring for Red Hat Virtualization
+intent/topic : install_config_configuring_rhv
+entities: ['Configuring OpenShift Container Platform for Red Hat Virtualization']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-sdn
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring the SDN
+intent/topic : install_config_configuring_sdn
+entities: ['External Access', 'SDN', 'Cluster Network', 'SDN Plug']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-configuring-vsphere
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring for VMware vSphere
+intent/topic : install_config_configuring_vsphere
+entities: ['Red Hat OpenShift Container Storage', 'Ansible', 'Configuring OpenShift Container Platform', 'vSphere', 'OpenShift Container Platform']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-imagestreams-templates
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Adding the Default Image Streams and Templates
+intent/topic : install_config_imagestreams_templates
+entities: ['Middleware Images', 'OpenShift Container Platform Images', 'Instant App', 'OpenShift Container Platform Subscription']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-provisioners
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Deploying External Persistent Volume Provisioners
+intent/topic : install_config_provisioners
+entities: ['AWS', 'EFS Provisioner', 'EFS Provisioner Ansible Variables']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-redeploying-certificates
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Redeploying Certificates
+intent/topic : install_config_redeploying_certificates
+entities: ['Router', 'Custom Registry', 'Redeploying Node', 'Custom OpenShift Container Platform', 'Router Certificates', 'Redeploying Registry']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/install-config-syncing-groups-with-ldap
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Syncing groups With LDAP
+intent/topic : install_config_syncing_groups_with_ldap
+entities: ['Nested', 'LDAP', 'Active Directory']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/persistent-storage-examples
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Persistent Storage Examples
+intent/topic : persistent_storage_examples
+entities: ['Persistent Volume Claim', 'Privileged Pods', 'Setup', 'Defining Group', 'StorageClass', 'Overriding Registry Configuration', 'NFS', 'PersistentVolumeClaim', 'Integrated Container Image Registry', 'Binding Persistent Volumes by Labels', 'Integrated OpenShift Container Registry', 'Mounting Volumes']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/configuring_clusters/setting-up-for-ldap-failover
+product : OpenShift Container Platform 3.11
+
+doc title : Configuring Clusters
+page title : Configuring LDAP failover
+intent/topic : setting_up_for_ldap_failover
+entities: ['SSSD', 'Apache', 'Configuring OpenShift Container Platform', 'LDAP']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/scheduling
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Scheduling
+intent/topic : scheduling
+entities: ['Configuring Node Affinity', 'Pod Priority', 'Daemonsets', 'Preemption', 'Tolerations', 'Control Pod Placement to Projects', 'Pod Affinity', 'Configuring Node Selectors', 'Create the Job Specification', 'Configuring Pod Affinity', 'Descheduler', 'Filter']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/assembly_restore-etcd-quorum
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Restoring etcd quorum
+intent/topic : assembly_restore_etcd_quorum
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-restore
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Restoring OpenShift Container Platform components
+intent/topic : admin_guide_restore
+entities: ['OpenShift Container Platform', 'Ansible']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-router
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Monitoring and Debugging Routers
+intent/topic : admin_guide_router
+entities: ['Viewing Logs', 'Router Internals']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-service-accounts
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Configuring Service Accounts
+intent/topic : admin_guide_service_accounts
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-unique-external-ips-ingress-traffic
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Assigning Unique External IPs for Ingress Traffic
+intent/topic : admin_guide_unique_external_ips_ingress_traffic
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/assembly_replace-etcd-member
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Replacing a failed etcd member
+intent/topic : assembly_replace_etcd_member
+entities: ['Ansible']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-manage-scc
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Managing Security Context Constraints
+intent/topic : admin_guide_manage_scc
+entities: ['Grant a Service Account Access', 'User, Group', 'Enable Container Images', 'Require Root', 'Grant Access']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-overcommit
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Overcommitting
+intent/topic : admin_guide_overcommit
+entities: ['Compute Resources', 'Reserving Resources for System Processes', 'Quality of Service Classes']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-quota
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Setting Quotas
+intent/topic : admin_guide_quota
+entities: ['Configuring Quota Synchronization Period', 'Object Count Quotas', 'Sample Resource Quota Definitions']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-manage-nodes
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Managing nodes
+intent/topic : admin_guide_manage_nodes
+entities: ['Configuring Node Resources']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-manage-rbac
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Managing Role-based Access Control (RBAC)
+intent/topic : admin_guide_manage_rbac
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-manage-networking
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Managing Networking
+intent/topic : admin_guide_manage_networking
+entities: ['Egress Firewall', 'External Resources', 'NetworkPolicy', 'Isolating Project Networks', 'External Project Traffic', 'Limit Access', 'Joining Project Networks', 'Routers']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-kuryr
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Kuryr SDN Administration
+intent/topic : admin_guide_kuryr
+entities: ['OpenStack Resources']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-limits
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Setting Limit Ranges
+intent/topic : admin_guide_limits
+entities: ['Limit Range']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-ipsec
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Encrypting traffic between nodes with IPsec
+intent/topic : admin_guide_ipsec
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-high-availability
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : High Availability
+intent/topic : admin_guide_high_availability
+entities: ['Command Line Options and Environment Variables', 'NodePort', 'VRRP ID', 'VRRP Preemption', 'Keepalived Multicast']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-handling-out-of-resource-errors
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Handling Out of Resource Errors
+intent/topic : admin_guide_handling_out_of_resource_errors
+entities: ['DaemonSets', 'Understanding Eviction Signals', 'Configuring Eviction Policies', 'Understanding Quality of Service', 'Pod Scheduler', 'OOR Conditions', 'Node Configuration to Create a Policy', 'Reclaiming Node', 'Controlling Node Condition Oscillation']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-garbage-collection
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Garbage Collection
+intent/topic : admin_guide_garbage_collection
+entities: ['Container Garbage Collection', 'Image Garbage Collection', 'Detecting Images for Deletion']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-diagnostics-tool
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Diagnostics Tool
+intent/topic : admin_guide_diagnostics_tool
+entities: ['Diagnostics Tool', 'Health Checks', 'Running Diagnostics', 'Server Environment', 'Running Health Checks']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-custom-resources
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Extending the Kubernetes API with custom resources
+intent/topic : admin_guide_custom_resources
+entities: ['CRD']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-allocating-node-resources
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Allocating Node Resources
+intent/topic : admin_guide_allocating_node_resources
+entities: ['System Resources Reported', 'Configuring Nodes for Allocated Resources']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-building-dependency-trees
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Building Dependency Trees
+intent/topic : admin_guide_building_dependency_trees
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-cluster-capacity
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Analyzing Cluster Capacity
+intent/topic : admin_guide_cluster_capacity
+entities: ['Running Cluster Capacity Analysis']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-disable-feature
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Disabling Features Using Feature Gates
+intent/topic : admin_guide_disable_feature
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-encrypting-data-at-datastore
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Encrypting Data at Datastore Layer
+intent/topic : admin_guide_encrypting_data_at_datastore
+entities: ['Data']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-idling-applications
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Idling Applications
+intent/topic : admin_guide_idling_applications
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-image-policy
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Image Policy
+intent/topic : admin_guide_image_policy
+entities: ['ImagePolicy']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-image-signatures
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Image Signatures
+intent/topic : admin_guide_image_signatures
+entities: ['Signature Stores', 'API', 'OpenShift']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-iptables
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : iptables
+intent/topic : admin_guide_iptables
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-manage-pods
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Managing Pods
+intent/topic : admin_guide_manage_pods
+entities: ['Egress Firewall']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-manage-users
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Managing Users
+intent/topic : admin_guide_manage_users
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-managing-projects
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Managing Projects
+intent/topic : admin_guide_managing_projects
+entities: ['Node Selector', 'Default Node Selector']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-monitoring-images
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Monitoring Images
+intent/topic : admin_guide_monitoring_images
+entities: ['Viewing Images Statistics']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-muliproject-quota
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Setting Multi-Project Quotas
+intent/topic : admin_guide_muliproject_quota
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-node-problem-detector
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Node Problem Detector
+intent/topic : admin_guide_node_problem_detector
+entities: ['Node Problem Detector', 'Example Node Problem Detector Output', 'Customizing Detected Conditions']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-opaque-resources
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Opaque Integer Resources
+intent/topic : admin_guide_opaque_resources
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-pruning-resources
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Pruning objects
+intent/topic : admin_guide_pruning_resources
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-scoped-tokens
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Scoped Tokens
+intent/topic : admin_guide_scoped_tokens
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-sdn-troubleshooting
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Troubleshooting OpenShift SDN
+intent/topic : admin_guide_sdn_troubleshooting
+entities: ['Router', 'Debugging Node to Node Networking', 'SDN Flows Inside a Node', 'Virtual Network', 'Builds', 'Virtual Networking']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-seccomp
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Restricting Application Capabilities Using Seccomp
+intent/topic : admin_guide_seccomp
+entities: ['Configuring OpenShift Container Platform', 'Custom Seccomp Profile', 'Seccomp']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-securing-builds
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Securing Builds by Strategy
+intent/topic : admin_guide_securing_builds
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/admin-guide-sysctls
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Sysctls
+intent/topic : admin_guide_sysctls
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/assembly_replace-master-host
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Replacing a master host
+intent/topic : assembly_replace_master_host
+entities: ['Ansible']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/cluster_administration/configuring-cluster-auto-scaler-aws
+product : OpenShift Container Platform 3.11
+
+doc title : Cluster Administration
+page title : Configuring the cluster auto-scaler in AWS
+intent/topic : configuring_cluster_auto_scaler_aws
+entities: ['OpenShift Container Platform', 'Launch Configuration and Auto Scaling']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-routing-optimization
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Routing Optimization
+intent/topic : scaling_performance_routing_optimization
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-using-cpu-manager
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Using CPU Manager
+intent/topic : scaling_performance_using_cpu_manager
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-optimizing-storage
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Optimizing persistent storage
+intent/topic : scaling_performance_optimizing_storage
+entities: ['SELinux', 'DeviceMapper']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-optimizing-ephemeral-storage
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Optimizing ephemeral storage
+intent/topic : scaling_performance_optimizing_ephemeral_storage
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-network-optimization
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Network Optimization
+intent/topic : scaling_performance_network_optimization
+entities: ['IPSec', 'MTU', 'Configuring Network Subnets']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-managing-huge-pages
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Managing Huge Pages
+intent/topic : scaling_performance_managing_huge_pages
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-capacity-host-practices
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Recommended Host Practices
+intent/topic : scaling_performance_capacity_host_practices
+entities: ['OpenShift Container Platform Node', 'OpenStack', 'OpenShift Container Platform', 'Hosts', 'Tuned Profile']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-cluster-limits
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Cluster Limits
+intent/topic : scaling_performance_cluster_limits
+entities: ['OpenShift Container Platform Cluster Limits']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-cluster-metrics
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Scaling Cluster Metrics
+intent/topic : scaling_performance_cluster_metrics
+entities: ['Capacity Planning for Cluster Metrics', 'OpenShift Container Platform']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-cluster-monitoring
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Scaling Cluster Monitoring Operator
+intent/topic : scaling_performance_cluster_monitoring
+entities: ['OpenShift Container Platform', 'Capacity Planning for Cluster Monitoring Operator', 'Lab Environment']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-compute-resources
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Optimizing Compute Resources
+intent/topic : scaling_performance_compute_resources
+entities: ['Health Checks']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-install-best-practices
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Recommended Installation Practices
+intent/topic : scaling_performance_install_best_practices
+entities: ['Ansible Install Optimization']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-optimizing-on-glusterfs-storage
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Optimizing On GlusterFS Storage
+intent/topic : scaling_performance_optimizing_on_glusterfs_storage
+entities: ['Guidance for Databases', 'Matrix']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/scaling_and_performance_guide/scaling-performance-using-cluster-loader
+product : OpenShift Container Platform 3.11
+
+doc title : Scaling and Performance Guide
+page title : Using Cluster Loader
+intent/topic : scaling_performance_using_cluster_loader
+entities : NONE
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/installing_clusters/install-config-install-prerequisites
+product : OpenShift Container Platform 3.11
+
+doc title : Installing Clusters
+page title : System and environment requirements
+intent/topic : install_config_install_prerequisites
+entities: ['Red Hat Gluster Storage']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/installing_clusters/install-config-installing-stand-alone-registry
+product : OpenShift Container Platform 3.11
+
+doc title : Installing Clusters
+page title : Installing a stand-alone deployment of OpenShift container image registry
+intent/topic : install_config_installing_stand_alone_registry
+entities: ['OpenShift Container Registry']
+
+===============================================
+
+uri : https://access.redhat.com/documentation/en-us/openshift_container_platform/3.11/html/installing_clusters/install-planning
+product : OpenShift Container Platform 3.11
+
+doc title : Installing Clusters
+page title : Planning your installation
+intent/topic : install_planning
+entities: ['IBM']
+
+===============================================
+
