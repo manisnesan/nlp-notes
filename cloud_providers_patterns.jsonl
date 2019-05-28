@@ -1,0 +1,8 @@
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "aws"}]}
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "amazon"}, {"lower": "web"}, {"lower": "services"}]}
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "azure"}]}
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "microsoft"}, {"lower": "azure"}]}
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "gcp"}]}
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "google"},{"lower": "cloud"}, {"lower": "platform"}]}
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "vsphere"}]}
+{"label": "CLOUD_PROVIDER", "pattern": [{"lower": "vmware"}, {"lower": "vsphere"}]}
