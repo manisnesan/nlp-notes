@@ -1,0 +1,72 @@
+allTitle,view_uri
+oc command line tool is throwing invalid character error,https://access.redhat.com/solutions/4034641
+Debugging OpenShift 4.x,https://access.redhat.com/articles/3780981
+Getting Journal Logs from the OpenShift 4.x kubelet,https://access.redhat.com/solutions/3802181
+How to connect to Openshift Container Platform 4 Cluster nodes using ssh bastion pod?,https://access.redhat.com/solutions/4073041
+What are the credentials for OpenShift 4 Router metrics?,https://access.redhat.com/solutions/4064271
+What nameserver does a Pod use to resolve a hostname in OpenShift 4?,https://access.redhat.com/solutions/4064211
+What is the default OpenShift CNI Plugin in OpenShift 4?,https://access.redhat.com/solutions/4064171
+Authentication operator fails to upgrade,https://access.redhat.com/solutions/4059611
+who-can command gives incorrect output,https://access.redhat.com/solutions/4058371
+How to upgrade the Openshift 4 cluster?,https://access.redhat.com/solutions/4044181
+/etc/ssl/etcd folder does not exist.,https://access.redhat.com/solutions/4045091
+How to configure an HTPasswd identity provider in Openshift Container Platform 4?,https://access.redhat.com/solutions/4039941
+Provide the same GUI and CLI URL to login in OpenShift 4.x ,https://access.redhat.com/solutions/4001061
+Add wildcard certificate to router in OpenShift Container Platform 4,https://access.redhat.com/solutions/3999021
+Where do the metrics for  the HPA come from in OCP 4.X?,https://access.redhat.com/solutions/3990701
+" oc debug node command fails with ""unable to extract pod template from type *core.Node""",https://access.redhat.com/solutions/3988281
+Backing up ETCD data with OpenShift Container Platform 4.x,https://access.redhat.com/solutions/3978571
+ETCD Commands for OpenShift 4.x,https://access.redhat.com/solutions/3978611
+How to access the integrated registry in OpenShift 4.x from outside the cluster,https://access.redhat.com/solutions/3967481
+How to replace Web Console certificate in OpenShift 4.x,https://access.redhat.com/solutions/3964921
+How to delete temp user `kubeadmin` in OpenShift 4.x,https://access.redhat.com/solutions/3959711
+How to view bootkube log in OpenShift 4.x,https://access.redhat.com/solutions/3959311
+OpenShift installer does not show `libvirt` for possible platform,https://access.redhat.com/solutions/3959111
+etcd image based on Alpine Linux in OpenShift 4.x,https://access.redhat.com/solutions/3932911
+OpenShift v0.13 installer failing with error '4 of 4 credentials requests are failing to sync',https://access.redhat.com/solutions/3954631
+KubeVersionMismatch: There are 2 different versions of Kubernetes components running,https://access.redhat.com/solutions/3952471
+Capturing debug information  to diagnose the cluster problems,https://access.redhat.com/solutions/3934981
+How to deploy node problem detector in Openshift 4?,https://access.redhat.com/solutions/3935401
+Prometheus alerts show CPUThrottlingHigh alerts.,https://access.redhat.com/solutions/3922791
+How can I run the 4.0 install multiple times using an existing install-config,https://access.redhat.com/solutions/3925051
+Allow Customer-Provisioned VPC & network components with OpenShift Container Platform,https://access.redhat.com/solutions/3906641
+"OpenShift 4 install on AWS stuck with ""Still creating...""",https://access.redhat.com/solutions/3924971
+Why does installer check another region that is not running the OCP 4 cluster when it deletes a cluster.,https://access.redhat.com/solutions/3923151
+"Cluster Operators UI shows error ""version"" of undefined",https://access.redhat.com/solutions/3923311
+Project in 'Terminating' state,https://access.redhat.com/solutions/3881901
+Cannot find git warning while running builds in Red Hat Openshift 4.0 Beta,https://access.redhat.com/solutions/3909471
+Increasing the OpenShift and Kube API loglevels in OpenShift 4 ,https://access.redhat.com/solutions/3909751
+Internal error occurred when trying to login to Openshift 4 Beta,https://access.redhat.com/solutions/3916091
+Debugging AWS Commands for OpenShift 4,https://access.redhat.com/solutions/3881521
+How to configure fluentd to merge the logs to a JSON payload document ? ,https://access.redhat.com/solutions/3881981
+Openshift 4.0 installer does not ask for AWS credentials while installation,https://access.redhat.com/solutions/3893641
+When running './openshift-install create cluster' I recieve the error 'aws_instance.bootstrap: Error launching source instance: Unsupported: The requested configuration is currently not supported.',https://access.redhat.com/solutions/3896641
+What to do if the install fails before creating metadata.json,https://access.redhat.com/solutions/3896661
+kube-apiserver target in Unknown state,https://access.redhat.com/solutions/3904491
+ Prometheus alerts show kube version mismatch,https://access.redhat.com/solutions/3904531
+"How to use ""oc adm release new"" in Openshift 4",https://access.redhat.com/solutions/3886081
+How to see the image layers and size of image using Openshift Cli in 4.x,https://access.redhat.com/solutions/3886101
+How to set Registry Hostname for API server pods in Openshift 4.x,https://access.redhat.com/solutions/3886201
+Prometheus targets for openshift-image-registry/image-registry/0 down,https://access.redhat.com/solutions/3886791
+When will Installer Provisioned Infrastructure (IPI) for OpenShift Container Platform be available on VMware vSphere,https://access.redhat.com/solutions/3904031
+"image-registry pod stuck in ""CreateContainerConfigError""",https://access.redhat.com/solutions/3869751
+Where is the Authentication Operator,https://access.redhat.com/solutions/3869951
+How to use ovs-subnet or ovs-multitenant in OpenShift Container Platform 4,https://access.redhat.com/solutions/3903301
+Node label values missing,https://access.redhat.com/solutions/3898881
+Overriding the ocp-release image with Openshift 4.0,https://access.redhat.com/solutions/3880221
+How to modify availability zones of the instances before the installation,https://access.redhat.com/solutions/3868421
+Openshift 4 installation fails if no AWS profile is set,https://access.redhat.com/solutions/3871651
+How to enable Audit logging in Openshift 4,https://access.redhat.com/solutions/3868061
+How to update ssh keys after installation in Openshift 4,https://access.redhat.com/solutions/3868301
+All in one openshift 4.0 cluster,https://access.redhat.com/solutions/3830561
+How do I generate a new install-config without installing a new OpenShift 4.0 cluster?,https://access.redhat.com/solutions/3830641
+Where are the AWS credentials stored for the OpenShift 4 install?,https://access.redhat.com/solutions/3830861
+Where can I find the installation log when creating an OpenShift 4 cluster?,https://access.redhat.com/solutions/3830901
+How do I modify the number of masters or workers in my OpenShift 4 cluster prior to installation?,https://access.redhat.com/solutions/3830981
+"FATAL failed to fetch Cluster: failed to load asset ""Cluster"": ""terraform.tfstate"" already exists.  There may already be a running cluster ",https://access.redhat.com/solutions/3825931
+"openshift-install destroy cluster failed: ""panic: runtime error: invalid memory address or nil pointer dereference""",https://access.redhat.com/solutions/3833511
+Configure instance with install-config for Openshift 4.0,https://access.redhat.com/solutions/3825751
+Can we configure a single master cluster with Openshift 4.0,https://access.redhat.com/solutions/3803491
+How to deploy cluster logging in OCP 4.0 using OLM?,https://access.redhat.com/solutions/3803291
+How to tell if an OpenShift 4.x Node is tainted,https://access.redhat.com/solutions/3801571
+Checking the Version and Component Versions on OpenShift 4.x,https://access.redhat.com/solutions/3799561

@@ -1,4 +1,4 @@
-This is my attempt to dive into NLP which I have been trying to get my feet wet.
+This is my attempt to dive into NLP which I have been trying to get my feet wet. The notebooks can be found in *nbs* directory.
 
 [1] NLP Introduction to Python using spacy and textacy - The notebook is heavily inspired from the book by NLP in Python: Quick Start Guide by [Nirant Kasliwal](https://nirantk.com/)
 
@@ -7,3 +7,5 @@ This is my attempt to dive into NLP which I have been trying to get my feet wet.
 [3] Product Named Entity Recognition(NER) - This notebook uses Spacy's Phrase Matcher Component to bootstrap custom domain specific product entity recognition and also shows how to add custom extension attributes to the entity.
 
 [4] Advanced NLP with Spacy contains notebooks created based on Ines Montani [Spacy Course](https://course.spacy.io/).  
+
+[5] Keyword Phrase Extraction illustrated using OpenShift 4 titles. This notebook uses graph based single rank method(unsupervised) to extract the keyphrases found in OpenShift knowledge base titles. 
