@@ -9,3 +9,5 @@ This is my attempt to dive into NLP which I have been trying to get my feet wet.
 [4] Advanced NLP with Spacy contains notebooks created based on Ines Montani [Spacy Course](https://course.spacy.io/).  
 
 [5] Keyword Phrase Extraction illustrated using OpenShift 4 titles. This notebook uses graph based single rank method(unsupervised) to extract the keyphrases found in OpenShift knowledge base titles. 
+
+[6] IMDB Reviews - Sentiment Classification using [fastai](https://docs.fast.ai/). This notebook uses pretrained language model wikitext103 in order to perform sentiment classification on IMDB Reviews data set. 
