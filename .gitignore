@@ -1,0 +1,7 @@
+#Don't track the contents of these directories
+
+# Model files #
+./models
+# Data files
+./data
+*/data/*
