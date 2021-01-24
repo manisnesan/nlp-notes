@@ -4,4 +4,4 @@
 ./models
 # Data files
 ./data
-*/data/*
+data/*
